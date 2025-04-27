@@ -24,11 +24,10 @@ This project focuses on detecting fraudulent transactions using machine learning
 ## 📈 Key Results
 - Built models with high precision and recall to identify fraud cases.
 - Applied oversampling/undersampling techniques to handle class imbalance.
-- ROC-AUC score of **XX%** achieved with [your best model].
+
 
 ## 📋 Dataset
-*(Mention source here)*  
-Example: [Kaggle Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+(https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 ## 🛠️ Libraries Used
 - Pandas
@@ -43,9 +42,6 @@ Example: [Kaggle Credit Card Fraud Detection Dataset](https://www.kaggle.com/dat
 - Cross-validation
 - Hyperparameter tuning
 - Feature scaling
-
-## 📬 Contact
-For any queries, feel free to reach out at [your-email@example.com].
 
 
 1. Data Cleaning: Handling Missing Values, Outliers, and Multi-Collinearity
